@@ -1,3 +1,13 @@
 body {
 background-color: #ffd699; 
 }
+
+.left {
+}
+
+.right {
+}
+.container {
+  display: grid; 
+  grid-template-columns: auto auto;
+}
