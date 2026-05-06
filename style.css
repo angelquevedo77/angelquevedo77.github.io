@@ -6,12 +6,18 @@ body {
 background-color: #ffd699; 
 }
 
+.container {
+  display: grid; 
+  grid-template-columns: auto auto;
+}
+
 .left {
 }
 
 .right {
 }
-.container {
-  display: grid; 
-  grid-template-columns: auto auto;
+
+.vl {
+  border-left: 6px solid black;
+  height: 100%;
 }
