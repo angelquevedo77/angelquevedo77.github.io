@@ -17,6 +17,10 @@ img {
   grid-template-columns: auto auto auto;
 }
 
+.container p {
+  width: 100ch;
+}
+
 .left {
 }
 
