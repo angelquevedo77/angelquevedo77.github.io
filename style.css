@@ -8,7 +8,7 @@ background-color: #ffd699;
 
 .container {
   display: grid; 
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
 }
 
 .left {
