@@ -16,17 +16,6 @@ img {
   display: grid; 
   grid-template-columns: auto auto auto;
 }
-
-.container p {
-  width: 70px;
-}
-
-.left {
-}
-
-.right {
-}
-
 .vl {
   border-left: 6px solid black;
   height: 100%;
