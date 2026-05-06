@@ -6,6 +6,12 @@ body {
 background-color: #ffd699; 
 }
 
+img {
+  height: 300px;
+  width: 300px;
+  padding: 5px;
+}
+
 .container {
   display: grid; 
   grid-template-columns: auto auto auto;
